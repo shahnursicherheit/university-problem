@@ -1,4 +1,4 @@
-//# university-problem
+//# university-problem show multiple search index using binary search
 #include<iostream>
 using namespace std ;
 int binarySearch(int a[30],int n,int s){
